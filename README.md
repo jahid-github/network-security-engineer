@@ -28,4 +28,4 @@ Why this order:
 
 * [Cloud Security Handbook](https://drive.google.com/drive/folders/17uZsmu2IIRf3xWH3H5_8ZH5rsYwbQZpc?usp=sharing)
 
-* (CEH Certified Ethical Hacker](https://drive.google.com/drive/folders/1GLJ3xtFlmEVRJXui5zHMzFnqoGirXgNi?usp=sharing)
+* [CEH Certified Ethical Hacker](https://drive.google.com/drive/folders/1GLJ3xtFlmEVRJXui5zHMzFnqoGirXgNi?usp=sharing)
