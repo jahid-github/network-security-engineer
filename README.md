@@ -16,7 +16,7 @@ Why this order:
   
        - CompTIA Security+ Study Guide with over 500 Practice Test Questions: Exam SY0-701, 9th Edition
   
-* SC-300 — identity and access: Entra ID, MFA, Conditional Access, PIM.
+* [SC-300 — identity and access: Entra ID, MFA, Conditional Access, PIM.](./https://drive.google.com/drive/folders/18FIv-oB4RM19pCshNvU4csbpQtX3zL3y?usp=sharing)
 * AZ-700 — Azure networking: VNets, routing, VPN, private connectivity, network security.
 * SC-500 — cloud and AI security engineering. Microsoft introduced it as the successor direction to the retired AZ-500. 
 * SC-200 — SOC/security operations: Sentinel, Defender XDR, KQL, incident response. 
