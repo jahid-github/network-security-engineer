@@ -16,15 +16,15 @@ Why this order:
   
   [CompTIA Security+ Study Guide with over 500 Practice Test Questions: Exam SY0-701, 9th Edition](https://drive.google.com/drive/folders/1zuhB8KYL72OpfOjlrhJvdkuhouxnklhI?usp=sharing)
   
-* [SC-300 — identity and access: Entra ID, MFA, Conditional Access, PIM.](https://drive.google.com/drive/folders/18FIv-oB4RM19pCshNvU4csbpQtX3zL3y?usp=sharing)
+* [SC-300 — identity and access: Entra ID, MFA, Conditional Access, PIM.](https://drive.google.com/drive/folders/18FIv-oB4RM19pCshNvU4csbpQtX3zL3y?usp=sharing) . [MS Learn Course](https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/?practice-assessment-type=certification)
 
-* AZ-700 — Azure networking: VNets, routing, VPN, private connectivity, network security.
+* AZ-700 — Azure networking: VNets, routing, VPN, private connectivity, network security. [MS Learn Course](https://learn.microsoft.com/en-us/credentials/certifications/azure-network-engineer-associate/?practice-assessment-type=certification)
 
-* SC-500 — cloud and AI security engineering. Microsoft introduced it as the successor direction to the retired AZ-500. 
+* SC-500 — cloud and AI security engineering. [MS Learn Course](https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/?practice-assessment-type=certification)
 
-* SC-200 — SOC/security operations: Sentinel, Defender XDR, KQL, incident response. 
+* SC-200 — SOC/security operations: Sentinel, Defender XDR, KQL, incident response. [MS Learn](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification)
 
-* SC-100 — expert-level cybersecurity architecture. Microsoft expects candidates to already have substantial security implementation experience.
+* SC-100 — expert-level cybersecurity architecture. Microsoft expects candidates to already have substantial security implementation experience. [MS Course](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-100/)
 
 * [Cloud Security Handbook](https://drive.google.com/drive/folders/17uZsmu2IIRf3xWH3H5_8ZH5rsYwbQZpc?usp=sharing)
 
